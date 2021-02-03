@@ -7,7 +7,7 @@ import {
 } from '@angular/common/http';
 
 import { Observable } from 'rxjs';
-import { of } from 'rxjs/observable/of';
+import { of } from 'rxjs';
 import { FileItem } from './file-item.class';
 import { FileUploader, FileUploaderOptions } from './file-uploader.class';
 import { Injectable } from '@angular/core';
