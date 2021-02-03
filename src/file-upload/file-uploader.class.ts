@@ -1,4 +1,3 @@
-import { Headers } from './file-uploader.class';
 import { EventEmitter } from '@angular/core';
 import { FileLikeObject } from './file-like-object.class';
 import { FileItem } from './file-item.class';
